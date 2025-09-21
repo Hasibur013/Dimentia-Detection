@@ -1,0 +1,14 @@
+ML Model,Configuration,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+Random Forest,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.751%
+Extra Trees,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.978%
+Gradient Boosting,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.416%
+XGBoost,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.827%
+LightGBM,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.914%
+CatBoost,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.654%
+Bagging,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.178%
+Voting Classifier,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.762%
+Stacking Classifier,SMOTE + GridSearchCV,98.765%,99.194%,98.400%,100.000%,99.741%
+SVC,SMOTE + GridSearchCV,98.148%,98.795%,98.400%,99.194%,99.892%
+AdaBoost,SMOTE + GridSearchCV,95.062%,96.694%,93.600%,100.000%,99.751%
+MLP Classifier,SMOTE + GridSearchCV,95.062%,96.694%,93.600%,100.000%,99.719%
+Decision Tree,SMOTE + GridSearchCV,93.827%,95.833%,92.000%,100.000%,98.681%

@@ -1,0 +1,8 @@
+Model,Accuracy,Balanced Accuracy
+Random Forest,98.77%,99.20%
+XGBoost,98.77%,99.20%
+LightGBM,98.77%,99.20%
+Support Vector Machine,98.15%,97.85%
+K-Nearest Neighbors,95.06%,95.85%
+Logistic Regression,90.12%,92.65%
+Gaussian Naive Bayes,88.27%,91.45%
