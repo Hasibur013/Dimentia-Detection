@@ -1,0 +1,12 @@
+ML Model,Configuration,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+Gradient Boosting,Preprocessed Data,0.987654,0.98281,0.992,0.974359,0.996973
+Gradient Boosting,Normalized Data,0.987654,0.98281,0.992,0.974359,0.996108
+Gradient Boosting,SelectKBest,0.981481,0.973976,0.978486,0.969652,0.99027
+Gradient Boosting,RFECV,0.981481,0.973976,0.978486,0.969652,0.983784
+Gradient Boosting,PCA,0.981481,0.973976,0.978486,0.969652,0.984
+Gradient Boosting,SMOTE + StandardScaler,0.981481,0.974447,0.988,0.9625,0.996324
+Gradient Boosting,SMOTE + GridSearchCV,0.981481,0.974447,0.988,0.9625,0.996324
+Gradient Boosting,RandomUnderSampler,0.975309,0.96562,0.974486,0.957473,0.990486
+Gradient Boosting,TomekLinks,0.987654,0.98281,0.992,0.974359,0.997838
+Gradient Boosting,NearMiss,0.987654,0.98281,0.992,0.974359,0.996973
+Gradient Boosting,SMOTE + Tomek,0.987654,0.98281,0.992,0.974359,0.998054

@@ -1,0 +1,2 @@
+Rank,ML Model,Configuration,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+1,Bagging Classifier,Normalized Data,0.987654,0.98281,0.992,0.974359,0.993081

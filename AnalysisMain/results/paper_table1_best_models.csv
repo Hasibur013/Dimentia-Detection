@@ -1,0 +1,9 @@
+Rank,ML Model,Configuration,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+1,CatBoost,Preprocessed Data,0.987654,0.98281,0.992,0.974359,0.994162
+2,Gradient Boosting,Preprocessed Data,0.987654,0.98281,0.992,0.974359,0.996973
+3,Random Forest,Normalized Data,0.987654,0.98281,0.992,0.974359,0.991784
+4,LightGBM,Preprocessed Data,0.987654,0.98281,0.992,0.974359,0.991243
+5,SVM,SMOTE + StandardScaler,0.987654,0.98281,0.992,0.974359,0.996973
+6,XGBoost,Preprocessed Data,0.987654,0.98281,0.992,0.974359,0.995676
+7,Decision Tree,Preprocessed Data,0.981481,0.973976,0.978486,0.969652,0.991135
+8,AdaBoost,Preprocessed Data,0.981481,0.973976,0.978486,0.969652,0.979027

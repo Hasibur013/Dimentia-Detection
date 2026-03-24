@@ -1,0 +1,12 @@
+Configuration,Accuracy,F1 Score,ROC_AUC
+Normalized Data,0.9853,0.9795,0.9929
+NearMiss,0.9846,0.9785,0.9933
+Preprocessed Data,0.9846,0.9784,0.9919
+TomekLinks,0.9838,0.9773,0.9939
+PCA,0.9823,0.9751,0.9898
+SMOTE + Tomek,0.9815,0.9742,0.9941
+RFECV,0.9807,0.973,0.9872
+RandomUnderSampler,0.9792,0.971,0.9891
+SelectKBest,0.9784,0.969,0.9885
+SMOTE + GridSearchCV,0.9715,0.9623,0.9882
+SMOTE + StandardScaler,0.9715,0.9623,0.9882

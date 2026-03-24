@@ -1,0 +1,2 @@
+ML Model,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+Bagging Classifier,0.969753,0.957229,0.967081,0.948588,0.986486
