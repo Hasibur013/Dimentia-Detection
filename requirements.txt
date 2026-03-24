@@ -1,0 +1,3 @@
+pip install pandas numpy matplotlib seaborn scipy scikit-learn joblib xgboost lightgbm imbalanced-learn
+pip install psutil
+pip install shap lime
